@@ -1,0 +1,334 @@
+* {
+    margin: 0;
+    padding: 0;
+   }
+body{
+background-color: #935FAB; 
+}
+img{
+    margin-top: 30px;
+position: absolute;
+width: 912px;
+height: 610px;
+border-radius: 29px;
+left: 500px;
+}
+.rrr{
+position: absolute;
+width: 300px;
+height: 22px;
+left: 0px;
+top: 38px;
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF;
+position: absolute;
+width: 309px;
+height: 113px;
+background: #C866AC;
+backdrop-filter: blur(10px);
+border-radius: 90px;
+left: 800px;
+}
+.yy{
+    position: relative;
+    top: 40px;
+    font-size: 25px;
+}
+.control-pannel{    
+/* панель управления освещением */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 22px;
+margin-left: 22px;
+color: #000000;
+}
+.lampa{
+    /* ультрафиолетовые лампы */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 22px;
+margin-top: 60px;
+margin-left: 22px;
+}
+
+.lampa2{
+    /* лампы накаливания */
+    position: absolute;
+width: 179px;
+height: 44px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 22px;
+color: #000000;
+margin-top: 20px;
+margin-left: 15px;
+
+}
+#main-frame{
+    margin-top: 30px;
+    position: absolute;
+width: 290px;
+height: 265px;
+
+background: #F780E4;
+border-radius: 20px;
+left: 170px;
+}
+
+
+#datchik{
+    position: absolute;
+width: 290px;
+height: 621px;
+font-size: 20px;
+background: #F780E4;
+border-radius: 16px;
+margin-left: 170px;
+margin-top: 320px;
+}
+
+.datchik-co2{
+    position: absolute;
+    width: 364px;
+    height: 36px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 36px;
+    left: 7px;
+    color: #000000;
+    
+}
+.bi-bullseye{
+    position: relative;
+ left: 39px;
+ top: 35px;
+}
+.cheek{
+    width: 290px;
+    position: relative;
+    top: 40px;
+    background-color: #F780E4;
+}
+.text{
+    position: relative;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+top: 55px;
+}
+.text2{
+    position: relative;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+top: 70px;
+}
+#range{
+    position: relative;
+    top: 20px;
+}
+.aaa {
+    position: relative;
+    bottom: 50px;
+    left: 180px;
+   font-size: 30px;
+}
+.ooo {
+    position: relative;
+    bottom: 5px;
+    
+   font-size: 30px;
+}
+.eee {
+    position: relative;
+    bottom: 5px;
+    
+   font-size: 30px;
+}
+#temperatura{
+width: 400px;
+height: 269px;
+background: #F780E4;
+border-radius: 20px;
+position: relative;
+left: 500px;
+top: 670px;
+}
+.btn-group{
+    position: relative;
+    left: 250px;
+    top: 230px;
+}
+.btn-group2{
+    position: relative;
+    left: 250px;
+    top: 230px;
+}
+
+.text3{
+font-size: 30px;
+position: relative;
+bottom: 100px;
+text-align: center;
+}
+.cheek2{
+    position: relative;
+  width: 100%;
+  bottom: 100px;
+  background-color: #F780E4;
+}
+.cheek3{
+    position: relative;
+  width: 100%;
+  bottom: 25px;
+}
+.cheek3{
+    position: relative;
+    top: 100px;
+}
+.text4{
+    font-size: 30px;
+    position: relative;
+    bottom: 60px;
+    text-align: center;
+}
+#range2{
+    position: relative;
+    top: 25px;
+}
+#range3{
+    position: relative;
+  bottom:75px;
+}
+.texte{
+    position: relative;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+top: 70px;
+}
+.texte2{
+    position: relative;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+bottom: 30px;
+}
+
+.chek3{
+    position: relative;
+  width: 100%;
+  bottom: 50px;
+  
+}
+.camera{
+    width: 480px;
+height: 273px;
+
+background: #F780E4;
+border-radius: 20px;
+position: relative;
+left:930px;
+top: 400px;
+}
+.camera-text{
+    font-size: 30px;
+position: relative;
+text-align: center;
+}
+.www{
+    width: 300px;
+height: 67px;
+position: relative;
+background: #F680E4;
+border-radius: 20px;
+left: 1440px;
+bottom: 510px;
+}
+.www-text{
+    font-size: 25px;
+position: relative;
+
+text-align: center;
+}
+.wwe{
+    width: 300px;
+height: 522px;
+position: relative;
+background: #F780E4;
+border-radius: 20px;
+left: 1440px;
+bottom: 500px;
+}
+.wwe-panel{font-size: 25px;
+    position: relative;
+    text-align: center;
+}
+.wwe-panel2{font-size: 25px;
+    position: relative;
+    text-align: center;
+    top: 60px;
+}
+.wwe-panel3{font-size: 25px;
+    position: relative;
+    top: 200px;
+    text-align: center;
+}
+#range4{
+    position: relative;
+  top:220px;
+height: 0px;
+
+}
+
+
+.cheek55{
+    position: relative;
+    top: 200px;
+    width: 300px;
+    background-color: #F780E4;
+}
+.cheek66{
+    position: relative;
+  bottom: 20px;
+  width: 300px;
+  background-color: #F780E4;
+ 
+}
+
+.wwr{
+    width: 300px;
+    height: 273px;
+ 
+position: relative;
+left: 1440px;
+bottom: 463px;
+background: #F780E4;
+border-radius: 20px;
+}
+.wwr-ppp{
+    text-align: center;
+    position: relative;
+    top: 50px;
+    left: 10px;
+}
+    
